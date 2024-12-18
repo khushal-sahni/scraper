@@ -23,3 +23,4 @@ curl --location --request POST 'localhost:8000/scrape?base_url=https%3A%2F%2Fden
 
 base_url - required parameter, the website to scrape  
 max_pages - max number of pages to scrape, default value is 2  
+header requires a static token, you have to set this up in your environment (variable name STATIC_TOKEN)
