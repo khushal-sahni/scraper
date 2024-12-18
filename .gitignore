@@ -1,0 +1,4 @@
+env/
+scraping_tool/images
+db.json
+.env
